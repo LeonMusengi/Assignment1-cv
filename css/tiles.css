@@ -1,0 +1,16 @@
+.tile {
+    background-color:#E04343;
+    text-decoration-color: aliceblue;
+    color: white;
+    transition: all 500ms;
+    
+}
+
+.tile:hover {
+    transform: translateY(-10px);
+}
+.tile p{
+    color: #ffffff;
+    animation:1sec;
+}
+
